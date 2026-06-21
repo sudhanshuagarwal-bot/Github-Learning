@@ -2,4 +2,4 @@
 learn deeply the concepts of github
 
 # Add new line
-Author Sudhanshu agarwal
+Author - Sudhanshu agarwal
